@@ -1,8 +1,0 @@
-lenguage: node_js
-node_js:
-  - stable
-deploy:
-  provider: keroku
-  app: shareyourideawhithall
-  api_key:
-    secure: b1993d8e-5e73-447a-8bed-785cc39d2175
